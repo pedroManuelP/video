@@ -1,1 +1,0 @@
-"# Processamento-Digital-de-Imagens" 
