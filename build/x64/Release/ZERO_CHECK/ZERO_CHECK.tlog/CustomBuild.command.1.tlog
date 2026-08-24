@@ -1,0 +1,10 @@
+^C:\USERS\CHAMO\DOCUMENTOS_2\PROJETOS C++\VIDEO\BUILD\CMAKEFILES\14F043FB70C85A50FB38C0C9D5C2BEB1\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/chamo/Documentos_2/Projetos C++/video" "-BC:/Users/chamo/Documentos_2/Projetos C++/video/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/chamo/Documentos_2/Projetos C++/video/build/video.slnx"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

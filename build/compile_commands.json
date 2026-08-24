@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/chamo/Documentos_2/Projetos C++/video/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/video.dir/includes_CXX.rsp -g -o CMakeFiles\\video.dir\\webcam.cpp.obj -c \"C:\\Users\\chamo\\Documentos_2\\Projetos C++\\video\\webcam.cpp\"",
+  "file": "C:/Users/chamo/Documentos_2/Projetos C++/video/webcam.cpp",
+  "output": "CMakeFiles/video.dir/webcam.cpp.obj"
+}
+]

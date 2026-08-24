@@ -1,0 +1,3 @@
+C:/Users/chamo/Documentos_2/Projetos C++/video/build/CMakeFiles/video.dir
+C:/Users/chamo/Documentos_2/Projetos C++/video/build/CMakeFiles/edit_cache.dir
+C:/Users/chamo/Documentos_2/Projetos C++/video/build/CMakeFiles/rebuild_cache.dir
