@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/video.dir/webcam.cpp.obj"
-  "CMakeFiles/video.dir/webcam.cpp.obj.d"
+  "CMakeFiles/video.dir/webcam_imsogreen.cpp.obj"
+  "CMakeFiles/video.dir/webcam_imsogreen.cpp.obj.d"
   "libvideo.dll.a"
   "video.exe"
   "video.exe.manifest"

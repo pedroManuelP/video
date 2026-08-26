@@ -128,29 +128,29 @@ video/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\video.dir\build.make CMakeFiles/video.dir/build
 .PHONY : video/fast
 
-webcam.obj: webcam.cpp.obj
-.PHONY : webcam.obj
+webcam_imsogreen.obj: webcam_imsogreen.cpp.obj
+.PHONY : webcam_imsogreen.obj
 
 # target to build an object file
-webcam.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\video.dir\build.make CMakeFiles/video.dir/webcam.cpp.obj
-.PHONY : webcam.cpp.obj
+webcam_imsogreen.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\video.dir\build.make CMakeFiles/video.dir/webcam_imsogreen.cpp.obj
+.PHONY : webcam_imsogreen.cpp.obj
 
-webcam.i: webcam.cpp.i
-.PHONY : webcam.i
+webcam_imsogreen.i: webcam_imsogreen.cpp.i
+.PHONY : webcam_imsogreen.i
 
 # target to preprocess a source file
-webcam.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\video.dir\build.make CMakeFiles/video.dir/webcam.cpp.i
-.PHONY : webcam.cpp.i
+webcam_imsogreen.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\video.dir\build.make CMakeFiles/video.dir/webcam_imsogreen.cpp.i
+.PHONY : webcam_imsogreen.cpp.i
 
-webcam.s: webcam.cpp.s
-.PHONY : webcam.s
+webcam_imsogreen.s: webcam_imsogreen.cpp.s
+.PHONY : webcam_imsogreen.s
 
 # target to generate assembly for a file
-webcam.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\video.dir\build.make CMakeFiles/video.dir/webcam.cpp.s
-.PHONY : webcam.cpp.s
+webcam_imsogreen.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\video.dir\build.make CMakeFiles/video.dir/webcam_imsogreen.cpp.s
+.PHONY : webcam_imsogreen.cpp.s
 
 # Help Target
 help:
@@ -161,9 +161,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... video
-	@echo ... webcam.obj
-	@echo ... webcam.i
-	@echo ... webcam.s
+	@echo ... webcam_imsogreen.obj
+	@echo ... webcam_imsogreen.i
+	@echo ... webcam_imsogreen.s
 .PHONY : help
 
 

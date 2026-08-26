@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/chamo/Documentos_2/Projetos C++/video/webcam.cpp" "CMakeFiles/video.dir/webcam.cpp.obj" "gcc" "CMakeFiles/video.dir/webcam.cpp.obj.d"
+  "C:/Users/chamo/Documentos_2/Projetos C++/video/webcam_imsogreen.cpp" "CMakeFiles/video.dir/webcam_imsogreen.cpp.obj" "gcc" "CMakeFiles/video.dir/webcam_imsogreen.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

@@ -71,29 +71,29 @@ include CMakeFiles/video.dir/flags.make
 CMakeFiles/video.dir/codegen:
 .PHONY : CMakeFiles/video.dir/codegen
 
-CMakeFiles/video.dir/webcam.cpp.obj: CMakeFiles/video.dir/flags.make
-CMakeFiles/video.dir/webcam.cpp.obj: CMakeFiles/video.dir/includes_CXX.rsp
-CMakeFiles/video.dir/webcam.cpp.obj: C:/Users/chamo/Documentos_2/Projetos\ C++/video/webcam.cpp
-CMakeFiles/video.dir/webcam.cpp.obj: CMakeFiles/video.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\chamo\Documentos_2\Projetos C++\video\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/video.dir/webcam.cpp.obj"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/video.dir/webcam.cpp.obj -MF CMakeFiles\video.dir\webcam.cpp.obj.d -o CMakeFiles\video.dir\webcam.cpp.obj -c "C:\Users\chamo\Documentos_2\Projetos C++\video\webcam.cpp"
+CMakeFiles/video.dir/webcam_imsogreen.cpp.obj: CMakeFiles/video.dir/flags.make
+CMakeFiles/video.dir/webcam_imsogreen.cpp.obj: CMakeFiles/video.dir/includes_CXX.rsp
+CMakeFiles/video.dir/webcam_imsogreen.cpp.obj: C:/Users/chamo/Documentos_2/Projetos\ C++/video/webcam_imsogreen.cpp
+CMakeFiles/video.dir/webcam_imsogreen.cpp.obj: CMakeFiles/video.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\chamo\Documentos_2\Projetos C++\video\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/video.dir/webcam_imsogreen.cpp.obj"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/video.dir/webcam_imsogreen.cpp.obj -MF CMakeFiles\video.dir\webcam_imsogreen.cpp.obj.d -o CMakeFiles\video.dir\webcam_imsogreen.cpp.obj -c "C:\Users\chamo\Documentos_2\Projetos C++\video\webcam_imsogreen.cpp"
 
-CMakeFiles/video.dir/webcam.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/video.dir/webcam.cpp.i"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\chamo\Documentos_2\Projetos C++\video\webcam.cpp" > CMakeFiles\video.dir\webcam.cpp.i
+CMakeFiles/video.dir/webcam_imsogreen.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/video.dir/webcam_imsogreen.cpp.i"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\chamo\Documentos_2\Projetos C++\video\webcam_imsogreen.cpp" > CMakeFiles\video.dir\webcam_imsogreen.cpp.i
 
-CMakeFiles/video.dir/webcam.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/video.dir/webcam.cpp.s"
-	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\chamo\Documentos_2\Projetos C++\video\webcam.cpp" -o CMakeFiles\video.dir\webcam.cpp.s
+CMakeFiles/video.dir/webcam_imsogreen.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/video.dir/webcam_imsogreen.cpp.s"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\chamo\Documentos_2\Projetos C++\video\webcam_imsogreen.cpp" -o CMakeFiles\video.dir\webcam_imsogreen.cpp.s
 
 # Object files for target video
 video_OBJECTS = \
-"CMakeFiles/video.dir/webcam.cpp.obj"
+"CMakeFiles/video.dir/webcam_imsogreen.cpp.obj"
 
 # External object files for target video
 video_EXTERNAL_OBJECTS =
 
-video.exe: CMakeFiles/video.dir/webcam.cpp.obj
+video.exe: CMakeFiles/video.dir/webcam_imsogreen.cpp.obj
 video.exe: CMakeFiles/video.dir/build.make
 video.exe: C:/msys64/ucrt64/lib/libopencv_gapi.dll.a
 video.exe: C:/msys64/ucrt64/lib/libopencv_stitching.dll.a
